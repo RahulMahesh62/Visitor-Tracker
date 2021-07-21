@@ -87,8 +87,6 @@ Currently, an Android version of the project has been developed. For its install
 2. Install the application using the downloaded APK. 
    
 
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -97,12 +95,10 @@ _For usage examples, please refer to the [Documentation](https://rahulmahesh.tec
 We've also added the different application screenshots. [View Screenshots](https://github.com/RahulMahesh62/Visitor-Tracker/tree/main/Screenshots) here
 
 
-
 <!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/RahulMahesh62/Visitor-Tracker/issues) for a list of proposed features (and known issues).
-
 
 
 <!-- CONTRIBUTING -->
@@ -123,7 +119,6 @@ In the case of a bug report, bugfix, or suggestions, please feel free to open an
 
 #### Pull request
 Pull requests are always welcome, and I'll do my best to do reviews as fast as I can.
-
 
 
 <!-- LICENSE -->
