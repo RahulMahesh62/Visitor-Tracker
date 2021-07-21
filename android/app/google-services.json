@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "69657661328",
+    "project_id": "visitor-tracker-ce255",
+    "storage_bucket": "visitor-tracker-ce255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69657661328:android:3570bd906daa6521626d15",
+        "android_client_info": {
+          "package_name": "com.wildvines.visitor_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69657661328-0tgpdse6g45vu7odipndmc1g326kue5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wildvines.visitor_tracker",
+            "certificate_hash": "5ca2afc2096a2b48313d873f0c0d77f65abcd7da"
+          }
+        },
+        {
+          "client_id": "69657661328-7f6mucmr7pr3o4ob9q9ajr6i5krm9q00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEj-HQz7B5maiYmZfAzGLuxK-KVIBpvG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69657661328-7f6mucmr7pr3o4ob9q9ajr6i5krm9q00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
